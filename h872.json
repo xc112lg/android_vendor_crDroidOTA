@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "xc112",
-			"oem": "LG",
-			"device": "lucye",
-			"filename": "crDroidAndroid-14.0-20240305-h872-v10.2.zip",
-			"download": "https://github.com/xc112lg/crdroid10.1/releases/download/crDroidAndroid-14.0-20240305/crDroidAndroid-14.0-20240305-h872-v10.2.zip",
-			"timestamp": 1709613174,
-			"md5": "59ce5abbd87d793108292ce3d7216e16",
-			"sha256": "67663f28f0fb88acbe07ee71a04cba390cd871081757950cce517c29140b1aed",
-			"size": 1012567338,
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-14.0-20240306-h872-v10.2.zip",
+			"download": "https://github.com/xc112lg/crdroid10.x/releases/download/crDroidAndroid-14.0-20240306/crDroidAndroid-14.0-20240306-h872-v10.2.zip",
+			"timestamp": 1709685782,
+			"md5": "d9b3f1fc707527fd166f7948689e31f3",
+			"sha256": "52b60dca9fd8ec9ebada165ff664f348cb0a9e6a4175683944a5610aca1a77cf",
+			"size": 1012574414,
 			"version": "10.2",
-			"buildtype": "userdebug",
-			"forum": "https://xdaforums.com/t/unofficial-build-crdroid10-1-android-14-for-the-lg-g6.4648250/",
-			"gapps": "https://sourceforge.net/projects/crdroid/files/other/",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "https://github.com/xc112lg/crdroid10.1/releases/download/crDroidAndroid-14.0-20240305/recoveryh872.img",
-			"paypal": "https://www.paypal.com/paypalme/xc112xda",
+			"recovery": "",
+			"paypal": "",
 			"telegram": "",
-			"dt": "https://github.com/LineageOS/android_device_lge_g6-common",
-			"common-dt": "https://github.com/LineageOS/android_device_lge_msm8996-common",
-			"kernel": "https://github.com/LGE-G5-G6-V20/msm8996_lge_kernel/tree/Swan2000-lineage-21"
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }
