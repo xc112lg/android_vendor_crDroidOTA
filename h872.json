@@ -1,15 +1,16 @@
 {
+
 	"response": [
 		{
 			"maintainer": "",
 			"oem": "",
 			"device": "",
-			"filename": "crDroidAndroid-14.0-20240306-h872-v10.2.zip",
+			"filename": "crDroidAndroid-14.0-20240306-h870-v10.2.zip",
 			"download": "https://github.com/xc112lg/crdroid10.x/releases/download/crDroidAndroid-14.0-20240306/crDroidAndroid-14.0-20240306-h870-v10.2.zip",
-			"timestamp": 1709685782,
-			"md5": "d9b3f1fc707527fd166f7948689e31f3",
-			"sha256": "52b60dca9fd8ec9ebada165ff664f348cb0a9e6a4175683944a5610aca1a77cf",
-			"size": 1012574414,
+			"timestamp": 1709699094,
+			"md5": "b2c80836f08c42e15e9a097ba0f2ac63",
+			"sha256": "9cdc34dfe7a0d4b68d47c6cd816bbc680d12060158e08167181dbdaec281ad2e",
+			"size": 1012443088,
 			"version": "10.2",
 			"buildtype": "",
 			"forum": "",
@@ -24,6 +25,10 @@
 			"common-dt": "",
 			"kernel": ""
 		}
+	]
+	"response": [
+	
+		
 		{
 			"maintainer": "",
 			"oem": "",
