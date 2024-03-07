@@ -1,31 +1,6 @@
 {
 	"response": [
 		{
-			"maintainer": "xc112lg",
-			"oem": "",
-			"device": "",
-			"filename": "crDroidAndroid-14.0-20240306-h872-v10.2.zip",
-			"download": "https://github.com/xc112lg/crdroid10.x/releases/download/crDroidAndroid-14.0-20240306/crDroidAndroid-14.0-20240306-h872-v10.2.zip",
-			"timestamp": 1709685782,
-			"md5": "4afe0e3f6df7588cc2f11bdc1d7041e7",
-			"sha256": "6d017fac695c96572771e4e11c71a8d46a64fc4faa537d1489245df857131d25",
-			"size": 1012559690,
-			"version": "10.2",
-			"buildtype": "",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://github.com/xc112lg/crdroid10.x/releases/tag/crDroidAndroid-14.0-20240305",
-			"paypal": "https://www.paypal.com/paypalme/xc112xda",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-
-		{
 			"maintainer": "",
 			"oem": "",
 			"device": "",
