@@ -1,7 +1,0 @@
-Highlights & Device Specific Changes:
-Build type: Weekly
-Device: Nokia 6.1 (PL2)
-Device maintainer: Akshat Singh (Legendleo90)
-
-===== 02-03-2024 =====
-- Fixed Play Integrity
