@@ -24,9 +24,8 @@
 			"common-dt": "",
 			"kernel": ""
 		}
-	]
 
-	"response": [
+
 		{
 			"maintainer": "",
 			"oem": "",
@@ -52,4 +51,7 @@
 			"kernel": ""
 		}
 	]
+
+		
+
 }
