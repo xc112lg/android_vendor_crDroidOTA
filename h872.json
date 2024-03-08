@@ -1,6 +1,6 @@
 {
 	"response": [
-				{
+		{
 			"maintainer": "",
 			"oem": "",
 			"device": "",
@@ -23,8 +23,7 @@
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
-		}
-		,
+		},
 		{
 			"maintainer": "",
 			"oem": "",
