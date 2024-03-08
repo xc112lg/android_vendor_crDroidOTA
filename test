@@ -1,0 +1,1 @@
+sed -n '/"response": \[/,/\]/p' your_file.json | sed '1d;$d' > output.json;sed -e '/"response": \[/{r output.json' -e 'a,' -e '}' your_file1.json > temp.json && mv temp.json your_file1.json
