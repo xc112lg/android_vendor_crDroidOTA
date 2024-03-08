@@ -49,55 +49,5 @@
 			"common-dt": "",
 			"kernel": ""
 		}
-,
-		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "crDroidAndroid-14.0-20240306-us997-v10.2.zip",
-			"download": "https://github.com/xc112lg/crdroid10.x/releases/download/crDroidAndroid-14.0-20240306/crDroidAndroid-14.0-20240306-us997-v10.2.zip",
-			"timestamp": 1709695193,
-			"md5": "484a9c3a9efa4d71394e78a9ea47a334",
-			"sha256": "646daab9e2759933c156d711c7a3f90388989149bb5d33ac8d9e9910fac0928d",
-			"size": 1012565600,
-			"version": "10.2",
-			"buildtype": "",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-,
-		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "crDroidAndroid-14.0-20240306-us997-v10.2.zip",
-			"download": "https://github.com/xc112lg/crdroid10.x/releases/download/crDroidAndroid-14.0-20240306/crDroidAndroid-14.0-20240306-us997-v10.2.zip",
-			"timestamp": 1709695193,
-			"md5": "484a9c3a9efa4d71394e78a9ea47a334",
-			"sha256": "646daab9e2759933c156d711c7a3f90388989149bb5d33ac8d9e9910fac0928d",
-			"size": 1012565600,
-			"version": "10.2",
-			"buildtype": "",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
 	]
 }
