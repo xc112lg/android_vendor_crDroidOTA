@@ -75,6 +75,31 @@
 			"kernel": ""
 		}
 ,
+		{
+			"maintainer": "xc112lg",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-14.0-20240318-us997-v10.2.zip",
+			"download": "https://github.com/xc112lg/crdroid10.x/releases/download/crDroidAndroid-14.0-20240318/crDroidAndroid-14.0-20240318-us997-v10.2.zip",
+			"timestamp": 1710755054,
+			"md5": "be033cfd54a100dbeba53ffec0fd207d",
+			"sha256": "fe42fc2361e016f3fe80e5ef6be72225629929f4e5f4e382b24a5b3d7f247730",
+			"size": 1019056315,
+			"version": "10.2",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/xc112lg/crdroid10.x/releases/tag/crDroidAndroid-14.0-20240305",
+			"paypal": "https://www.paypal.com/paypalme/xc112xda",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+,
 			{
 			"maintainer": "xc112lg",
 			"oem": "",
